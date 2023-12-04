@@ -1,0 +1,15 @@
+List of websites/resources that I have refered to or cited from.
+
+References:
+
+Prophetモデルの概要とOptunaで自動でチューニングする方法
+https://book.st-hakky.com/data-science/prophet-model-predicts/
+
+【完全版】Prophetー時系列分析の基本から外部変数追加、holidaysの追加、ハイパーパラメータの調整まで(python)
+https://tora3data.com/prophet/
+
+Prophetの使い方メモ
+https://qiita.com/tchih11/items/42fc0d52a1486ba64b5d
+
+【データ分析】ProphetのQucik Start
+https://note.com/aaaki_t1/n/n238ca08ff034
