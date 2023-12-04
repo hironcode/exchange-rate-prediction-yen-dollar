@@ -11,6 +11,4 @@ I used following data for the analysis
 (3) yen/dollar exchange rate csv file (1973/01 through 2023/10)
     https://www.stat-search.boj.or.jp/index_en.html#
 
-Since the "datacode" in the Bank of Japan data is was not supported in UTF-8 in read_csv method,
-I manually removed the datacode from csv.
 Please make "data" folder at the same directory as main.ipynb and place your downloaded data inside.
